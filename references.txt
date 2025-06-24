@@ -1,0 +1,12 @@
+[1]	J. D. Hunter, “Matplotlib: A 2D graphics environment,” Comput. Sci. Eng., vol. 9, no. 3, pp. 90–95, 2007, doi: 10.1109/MCSE.2007.55.
+[2]	G. James, D. Witten, T. Hastie, and R. Tibshirani, An Introduction to Statistical Learning, New York, NY, USA: Springer, 2013.
+[3]	M. Kuhn and K. Johnson, Applied Predictive Modeling, New York, NY, USA: Springer, 2013.
+[4]	D. S. Moore, G. P. McCabe, and B. A. Craig, Introduction to the Practice of Statistics, New York, NY, USA: W. H. Freeman, 2012.
+[5]	D. S. Moore, G. P. McCabe, and B. A. Craig, Introduction to the Practice of Statistics, 9th ed., New York, NY, USA: W. H. Freeman and Company, 2017.
+[6]	M. M. Mukaka, “A guide to appropriate use of correlation coefficient in medical research,” Malawi Med. J., vol. 24, no. 3, pp. 69–71, 2012.
+[7]	R. A. Puspasari and T. Hidayat, “Evaluasi model prediksi berat badan anak dengan regresi linier dan MAE,” J. Informatika, 2020.
+[8]	L. Rahmawati, S. E. Nugroho, and D. Susanti, “K-Fold Cross Validation pada regresi linier sederhana,” J. Teknol. dan Sist. Komput., 2021.
+[9]	World Health Organization, WHO Child Growth Standards: Length/height-for-age, weight-for-age, weight-for-length, weight-for-height and body mass index-for-age: Methods and Development, Geneva, Switzerland: WHO Press, 2006.
+[10]	C. J. Willmott and K. Matsuura, “Advantages of the Mean Absolute Error (MAE) over the Root Mean Square Error (RMSE) in assessing average model performance,” Clim. Res., vol. 30, no. 1, pp. 79–82, 2005, doi: 10.3354/cr030079.
+[11]	I. H. Witten, E. Frank, and M. A. Hall, Data Mining: Practical Machine Learning Tools and Techniques, 4th ed., Burlington, MA, USA: Morgan Kaufmann, 2016.
+[12]	J. M. Wooldridge, Introductory Econometrics: A Modern Approach, 5th ed., Mason, OH, USA: Cengage Learning, 2013.
